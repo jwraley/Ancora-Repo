@@ -12,6 +12,8 @@
 --select distinct headofstate, name from country;
 --select TOP 10 * from city order by Population desc;
 --SELECT * FROM country WHERE region in ('Caribbean', 'North America', 'South America');
+
+-- NOTE: Please stick to one form of capitolization or another; either UPPERCASE or lowercase.
 SELECT * from city
 WHERE CountryCode in 
 (

@@ -1,3 +1,4 @@
+NOTE: Please complete this assignment and turn in.
 Purpose: (paragraph describing web site)
 
 Name: (unoffensive, short, memorable, and available domain netcheap.com)

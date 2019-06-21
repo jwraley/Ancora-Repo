@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 /* Purpose: (paragraph describing web site)
 This site is intended to be a social network for the Catholic Community.  A place to meet new friends, see what events are happening in your community,
 discuss latest news and events or to just share in the joy of the Gospel.  The goal of this site is to be a safe place to meet and exchange ideas without 
 the negativity that is often found on some of the other social networks.
+=======
+NOTE: Please complete this assignment and turn in.
+Purpose: (paragraph describing web site)
+>>>>>>> 7e59f1a0c39abeeb74075b36fcb056982b30db96
 
 Name: (unoffensive, short, memorable, and available domain netcheap.com)
 CATHOLICBUDDIES.COM

@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+-- NOTE: Remove this merge mark from Git.
+-- NOTE: More info about where this came from:
+-- NOTE: https://git-scm.com/docs/git-merge
+--<<<<<<< HEAD
 /* Purpose: (paragraph describing web site)
 This site is intended to be a social network for the Catholic Community.  A place to meet new friends, see what events are happening in your community,
 discuss latest news and events or to just share in the joy of the Gospel.  The goal of this site is to be a safe place to meet and exchange ideas without 
@@ -59,8 +62,8 @@ Datatypes:
 	Money:		cha ching
 	*/
 
-DROP DATABASE CatholicBuddies
-GO
+--DROP DATABASE CatholicBuddies
+--GO
 CREATE DATABASE CatholicBuddies;
 GO
 USE CatholicBuddies;
@@ -72,7 +75,7 @@ FName varchar(32) not null,
 LName varchar(32) not null,
 email varchar(32) not null,
 Password varchar(64) not null
-)
+)									-- NOTE: Semicolon missing here but listed in other parts. Please fix.
 
 CREATE TABLE UserLocation
 (

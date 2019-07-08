@@ -26,7 +26,7 @@ END
 exec RentalCounts 1
 
 SELECT * from rental where inventory_id = 1
-
+-- Please delete this extra line.
 
 -- write procedure to change customer's address
 
@@ -74,7 +74,7 @@ BEGIN
 exec AddPayment 1, 2, 3, 4.99;
 
 select * from payment where customer_id = 1;
-
+-- Please delete these extra lines
 
 
 
